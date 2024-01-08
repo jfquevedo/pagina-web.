@@ -1,0 +1,53 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: #ff0000;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-top: 0;
+  }
+  
+  nav {
+    background-color: #000;
+    padding: 10px 0;
+    list-style-type: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px 0;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  article {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #222;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
